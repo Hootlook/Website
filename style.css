@@ -1,0 +1,314 @@
+body
+{
+
+	background-image:url(image/fire.gif);
+	background-size: 2000px 2000px;
+
+}
+Li {font-size: 5 }
+
+@font-face 
+{ 
+	font-family: OptimusPrinceps; src: url('OptimusPrinceps.ttf'); 
+}
+
+
+
+.menu
+{
+	
+	font-family: wf_heroic-condensed-pro_medium,Calibri,"Arial Narrow","Trebuchet MS",Tahoma,Arial,sans-serif;
+	font-size: 1.42857em;
+	width:1000px; 
+	height: 50px;
+	
+	opacity: 100;
+	background-image: url(image/stonewall.png);
+	clear:both;
+	
+	
+}
+
+
+.main 
+{ 
+	width:1000px;
+	margin: 0px auto;
+	height: 1400px;
+	background-image: url(image/scroll2bis.png);
+
+}
+
+
+
+.logo 
+{
+	
+	width:200px;
+	height:50px;
+	float:left;
+	background-color: black;
+	opacity: 0.9;
+}
+
+/*.logo img 
+{ 					 heritage. influance toutes les images de logo
+	margin : 5px auto;
+	margin-left: 350px ;
+	
+}
+ */
+
+ 
+.corps 
+{ 
+
+	width:995px;	
+	height:980px; 
+	float:left;
+	background-image:image/hope.png;
+
+}
+
+.banniere 
+{
+	width:800px;
+	height:200px;
+	float:right;
+	background-color:black;
+
+}
+
+.Accueil
+{
+	
+	
+	margin-right:50px;
+	margin-top:5px;
+	width: 650px;
+	height:980px;
+	float:right;
+	position:top;
+}
+
+.Accueil img
+{
+	width:500px;
+	height:400px;
+	float:right;
+	background-color: black;
+
+}
+.Accueil h1
+{
+	
+	width:500px;
+	height:37px;
+	float:right;
+	position:absolute;
+	margin-left:20px;
+	font-family: "OptimusPrinceps"
+}
+
+.Accueil h2
+{
+	margin-top:90px;
+	font-family: "OptimusPrinceps"
+}
+
+.Contact
+{
+	margin-left:100px;
+	margin-top:5px;
+	width: 530px;
+	height:555px;
+	float:left;
+	position:top;
+	font-family: "OptimusPrinceps";
+	clear:both
+}
+
+.nav
+{
+	width:290px;
+	height:660px;
+	float: left;
+	margin-left:5px;
+	background-image: url(image/sign.png);
+	background-repeat: no-repeat;
+	font-family: "OptimusPrinceps"
+}
+
+.script
+{
+	font-size: 35px;
+	margin-left:60px;
+	margin-right:50px;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+	font-family: "OptimusPrinceps"
+
+}
+
+.nav li
+{
+	margin-top: 160px;
+	
+	list-style-type: none;
+	text-align:center
+}
+
+.pied1
+{
+	width: 200px; 
+	height: 75px;
+	float: left;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+
+.pied2
+{
+	width: 200px; 
+	height: 75px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+
+.pied3
+{
+	width: 150px; 
+	height: 75px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+
+.pied4
+{
+	width: 150px; 
+	height: 75px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+.clickable
+{
+	height:800px;
+	width:300px
+}
+.dark1
+{
+	
+	width: 200px;
+	height:200px;
+	margin-left:50px;
+	margin-top:20px;
+}
+.dark1 img
+{
+	position:absolute;
+}
+.dark2
+{
+	width:200px;
+	height:200px;
+	margin-left:50px;
+	margin-top:60px;
+}
+.dark2 img
+{
+	position:absolute;
+}
+.dark3
+{
+	width: 200px;
+	height:200px;
+	margin-left:50px;
+	margin-top:60px;
+}
+.dark3 img
+{
+	position:absolute;
+}
+.script2
+{
+	width:200px;
+	height:200px;
+	font-size: 230px;
+	position:relative;
+	color: none;
+	text-decoration: none;
+	opacity:0;
+	list-style-type: none;
+	font-family: none;
+	
+}
+.script3
+{	
+	opacity:0;
+	position:absolute;
+	width:190px;
+	height:90px;
+	font-size: 30px
+}
+.script4
+{
+	font-size: 35px;
+	margin-top:200px;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+	font-family: "OptimusPrinceps";	
+
+}
+.script4 li
+{
+
+}
+.playlist
+{
+	margin-left:320px;
+	position:absolute;
+	font-family: "OptimusPrinceps"
+
+}
+.soustext
+{
+	font-family: "OptimusPrinceps";
+	margin-left:320px;
+	margin-top:460px;
+	position:absolute;
+	font-size: 50px;
+
+
+}
+.soustext 
+{
+	font-size: 25px;
+}
+
+.basdepage
+{
+	height:500px;
+	width:300px;
+	float:right;
+	clear:both
+	
+}
+.basdepage img
+{
+	
+	float:right;
+	
+	clear:both
+}
+.footer
+{
+	width:1000px;
+	height:200px;
+	clear:both
+}
