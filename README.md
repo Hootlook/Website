@@ -1,3 +1,2 @@
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+This website was made as a high school electronic speciality task made only with html5...
+Man how boring this was 
